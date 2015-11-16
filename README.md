@@ -9,6 +9,18 @@ And some more comments.
 And some more text.
 
 
+python expression:
+
+    help(BGWpy.<object>)
+
+ipython expresssion:
+
+    In  [1]: BGWpy.<object>?
+
+
+
+
+
 And a new section
 -----------------
 
