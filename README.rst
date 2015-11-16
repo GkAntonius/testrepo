@@ -7,7 +7,7 @@ And here is a picture
 
 
 
-<a href="url"><img src="https://github.com/GkAntonius/testrepo/blob/master/doc/gandhi.pdf" align="center" height="250" ></a><br clear="all" />
+<center><a href="url"><img src="https://github.com/GkAntonius/testrepo/blob/master/doc/gandhi.png" height="250" ></a><center/><br clear="all" />
 
 
 
