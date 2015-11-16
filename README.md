@@ -21,3 +21,12 @@ And a new section
 -----------------
 
 With more text.
+
+
+And an other section
+--------------------
+
+With some other text.
+
+
+
